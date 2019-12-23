@@ -15,3 +15,4 @@
  * ### [1018 锤子剪刀布](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-21%20PTA1018.md)
  * ### [1019 数字黑洞](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-22%20PTA1019.md)
  * ### [1020 月饼](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-22%20PTA1020.md)
+ * ### [1021 个位数统计](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-23%20PTA1021.md)
