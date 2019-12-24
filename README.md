@@ -17,7 +17,7 @@
  * ### [1020 月饼](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-22%20PTA1020.md)
  * ### [1021 个位数统计](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-23%20PTA1021.md)
  * ### [1022 D进制的A+B](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-24%20PTA1022.md)
- * ### [正在准备]()
+ * ### [1023 组个最小数](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-24%20PTA1023.md)
  * ### [正在准备]()
  * ### [正在准备]()
  * ### [正在准备]()
