@@ -18,7 +18,7 @@
  * ### [1021 个位数统计](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-23%20PTA1021.md)
  * ### [1022 D进制的A+B](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-24%20PTA1022.md)
  * ### [1023 组个最小数](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-24%20PTA1023.md)
- * ### [正在准备]()
+ * ### [1024 科学计数法](https://github.com/Kartoffel-chen/Blog-PTA/blob/master/Blog/2019-12-25%20PTA1024.md)
  * ### [正在准备]()
  * ### [正在准备]()
  * ### [正在准备]()
